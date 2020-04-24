@@ -3,6 +3,6 @@ package pl.jasiek.app;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("elo");
+        System.out.println("elo2");
     }
 }
